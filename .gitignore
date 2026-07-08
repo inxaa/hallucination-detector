@@ -1,0 +1,18 @@
+# 敏感信息
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# 输出（每次运行都会重新生成）
+output/
+
+# OS
+.DS_Store
+Thumbs.db
